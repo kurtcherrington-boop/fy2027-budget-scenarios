@@ -1,0 +1,18 @@
+Our private-equity real estate firm is building its first real budget (FY2027) from about 31 legal entities kept in two ledgers, Yardi and QuickBooks Online. Fees flow between funds, properties and the management company, the close is being rebuilt, and several properties were bought mid-year. By hand, one trustworthy consolidated view takes about 30 hours, and we need four before year-end.
+
+Cleaning logic before code. After a read-only diagnosis of the real files found 16 issues, I wrote and approved a 14-rule cleaning rulebook before writing any code. Dates come in eight formats. Text in a number cell is left blank and logged, never zeroed. An empty month is classed as a real zero, a closed season, stopped books or not owned. Each entity-month has one book of record. Raw data is never edited: each fix is a reason-coded adjustment, and I approve anything over $5,000.
+
+Reusable pipeline. The rules became BudgetPipeline, a class-based Python package. It loads raw Yardi and QuickBooks exports, cleans and maps them, runs twelve anomaly detectors, consolidates with intercompany elimination and checks itself. Next month needs only new exports and Run all. On 34 real exports, 3,042 of 3,042 source totals tie. On a fictional demo company, it catches 25 of 25 planted problems. 73 automated tests back it.
+
+Forecast and model trade-off. BaselineForecaster extends my Week 5 project to every property: an FY2027 momentum baseline by property and month. I backtested seven approaches by hiding months. Prophet on a property's own data missed by 74%. Borrowing a peer's seasonal shape missed by 6%, and a simple run-rate missed by 1.5% for apartments and industrial. The most accurate approach was also the easiest to explain, so a written rule keeps the simpler model unless a complex one clearly wins.
+
+Interactive app. A Streamlit app starts from that baseline. Six sliders (occupancy, rent growth, opex inflation, interest rates, raise pace and deployment) move the budget, and a bridge shows each driver's dollars. Base NOI is $5.36M, with Low at $3.65M and High at $7.42M. An Analyst-Skeptic-CFO agent debate moved $1.3M of NOI that depends on unraised capital out of Base.
+
+Scalability, security and ROI. At double the data, the pipeline and app stay linear, and the backtest goes from 40 to 80 seconds. What breaks first is human review, so only material items are routed to me. The submission is synthetic; real data stays in approved tools, and no personal data is in scope. Built in about 18 hours, it saves about 20 hours a month net of upkeep and pays for itself on the first real consolidation run, which I will time against the 30-hour baseline.
+
+Next, the same engine consolidates our asset managers' real submissions on November 3.
+
+Links
+Live app: https://fy2027-budget-scenarios-nvx3sn4bhmgkrtyz5vgpjt.streamlit.app/
+Code and files: https://github.com/kurtcherrington-boop/fy2027-budget-scenarios
+Backup (Google Drive): https://drive.google.com/drive/folders/1UlcjnGKsTGNs0rXDICw5qK7F902WrZnh?usp=drive_link
