@@ -1,0 +1,17 @@
+{
+ "version": "0.2.5",
+ "run": "2026-10-25 20:57",
+ "window": "Oct-25 to Sep-26",
+ "last_closed": "2026-09",
+ "provisional": true,
+ "open_checks": [
+  "C-01 4 open",
+  "C-02 310.800",
+  "C-08 1 open",
+  "C-11 13 open",
+  "C-12 1 open",
+  "C-13 2 open"
+ ],
+ "missing_uploads": 13,
+ "note": "Property-level figures are unaudited; the funds are audited annually."
+}

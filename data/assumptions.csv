@@ -1,0 +1,9 @@
+SCODE,BaselineOccupancy,GrossAssetValue,DebtBalance,FloatingShare,Note
+CRF_1001,0.58,7500000,3900000,0.50,RV park: annual average site occupancy
+CRF_1002,0.93,28000000,9600000,0.25,
+CRF_1003,0.89,14000000,3300000,0.00,
+OPF_1001,0.60,9600000,4400000,0.50,
+OPF_1002,0.55,6200000,3300000,1.00,Acquired May 2026: bridge loan at a floating rate
+OPF_1003,0.52,7100000,2700000,0.50,
+GDF_1001,0.96,38000000,11200000,0.30,
+GDF_1002,0.85,16000000,6000000,1.00,Lease-up: construction loan at a floating rate

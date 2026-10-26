@@ -1,0 +1,1190 @@
+SCODE,ShortName,Level,Fund,AssetType,Own,LineID,LineName,Group,ICPair,ICRole,Month,Amount
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,CAP-100,Capital expenditures,BNOI,,,2026-03,-45000.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,CAP-100,Capital expenditures,BNOI,,,2026-04,-30000.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2025-10,-21500.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2025-11,-21460.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2025-12,-21420.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-01,-21380.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-02,-21340.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-03,-21300.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-04,-21260.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-05,-21220.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-06,-21180.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-07,-21140.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-08,-21100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-09,-21060.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2025-10,-41278.49
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2025-11,-34714.82
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2025-12,-32930.32
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-01,-33087.29
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-02,-33357.51
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-03,-36118.57
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-04,-40376.92
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-05,-47356.23
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-06,-51846.21
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-07,-57008.92
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-08,-54757.27
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-09,-48330.51
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-10,-3316.28
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-11,-1619.36
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-12,-908.23
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-01,-740.48
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-02,-978.13
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-03,-1856.67
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-04,-3650.95
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-05,-5222.73
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-06,-7588.98
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-07,-8517.91
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-08,-8267.1
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-09,-6006.59
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-10,-6870.06
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-11,-5911.38
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-12,-5776.73
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-01,-5570.51
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-02,-5856.07
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-03,-6094.53
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-04,-6744.16
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-05,-7623.79
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-06,-8094.9
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-07,-8616.23
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-08,-8491.21
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-09,-7552.34
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2025-10,-11785.18
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2025-11,-8186.9
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2025-12,-6648.51
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-01,-6371.49
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-02,-6725.91
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-03,-8756.9
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-04,-11928.87
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-05,-15419.43
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-06,-19462.7
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-07,-21257.56
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-08,-21614.46
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-09,-16753.13
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2025-10,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2025-11,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2025-12,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-01,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-02,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-03,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-04,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-05,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-06,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-07,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-08,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-09,-6200.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2025-10,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2025-11,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2025-12,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-01,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-02,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-03,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-04,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-05,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-06,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-07,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-08,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-09,-4100.0
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2025-10,-4167.47
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2025-11,-3442.84
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2025-12,-3186.38
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-01,-3141.95
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-02,-3287.6
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-03,-3701.41
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-04,-4203.9
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-05,-4798.79
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-06,-5341.18
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-07,-5632.91
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-08,-5403.52
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-09,-4835.6
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-10,-3886.66
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-11,-2597.33
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-12,-2179.27
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-01,-2076.1
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-02,-2173.04
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-03,-2851.38
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-04,-3924.67
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-05,-5235.53
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-06,-6623.99
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-07,-7491.14
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-08,-7307.46
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-09,-5570.45
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2025-10,-3272.83
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2025-11,-2510.29
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2025-12,-2267.54
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-01,-2185.61
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-02,-2244.49
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-03,-2669.87
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-04,-3342.77
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-05,-4162.11
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-06,-5059.91
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-07,-5539.12
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-08,-5461.12
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-09,-4288.91
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2025-10,88730.34
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2025-11,60598.95
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2025-12,51820.76
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-01,49680.65
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-02,51549.19
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-03,66452.25
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-04,89175.25
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-05,117879.84
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-06,147269.38
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-07,165750.89
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-08,162089.82
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-09,124425.03
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2025-10,7404.82
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2025-11,3602.14
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2025-12,2059.86
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-01,1673.4
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-02,2170.55
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-03,4061.73
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-04,7926.87
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-05,11597.83
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-06,16591.68
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-07,19494.08
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-08,18553.29
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-09,13286.11
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2025-10,1031.25
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2025-11,732.25
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2025-12,601.12
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2026-01,548.42
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2026-02,606.15
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2026-03,770.47
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2026-04,1014.62
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2026-05,1410.68
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2026-06,1738.8
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2026-07,2033.66
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2026-08,2043.29
+CRF_1001,Aspen Hollow RV Resort,Asset,CRF,RV Park,1.0,REV-300,Other revenue,REV,,,2026-09,1550.08
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2025-10,-52000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2025-11,-51945.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2025-12,-51890.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2026-01,-51835.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2026-02,-51780.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2026-03,-51725.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2026-04,-51670.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2026-05,-51615.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2026-06,-51560.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2026-07,-51505.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2026-08,-51450.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,DBT-100,Interest expense,BNOI,,,2026-09,-51395.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2025-10,-24123.65
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2025-11,-23372.81
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2025-12,-23742.34
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2026-01,-23336.59
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2026-02,-23421.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2026-03,-23555.58
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2026-04,-24217.39
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2026-05,-23499.43
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2026-06,-23929.65
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2026-07,-24100.04
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2026-08,-23585.32
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-100,Payroll & related,OPX,,,2026-09,-23719.66
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-10,-11014.77
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-11,-11053.87
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-12,-11352.4
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-01,-11066.06
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-02,-11312.04
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-03,-11047.26
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-04,-11064.91
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-05,-10506.25
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-06,-10940.28
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-07,-59000.64
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-08,-13067.18
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-09,-10820.29
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2025-10,-15006.79
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2025-11,-15654.13
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2025-12,-15051.33
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2026-01,-14890.97
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2026-02,-15160.41
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2026-03,-15204.45
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2026-04,-15776.37
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2026-05,-5724.59
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2026-06,-24782.68
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2026-07,-15619.95
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2026-08,-15233.99
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-120,Utilities,OPX,,,2026-09,-15101.5
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2025-10,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2025-11,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2025-12,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2026-01,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2026-02,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2026-03,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2026-04,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2026-05,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2026-06,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2026-07,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2026-08,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-130,Property taxes,OPX,,,2026-09,-19000.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2025-10,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2025-11,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2025-12,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2026-01,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2026-02,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2026-03,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2026-04,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2026-05,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2026-06,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2026-07,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2026-08,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-140,Insurance,OPX,,,2026-09,-7600.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2025-10,-1793.02
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2025-11,-1962.36
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2025-12,-1655.5
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2026-01,-1773.53
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2026-02,-1957.11
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2026-03,-1719.87
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2026-04,-1678.49
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2026-05,-1631.87
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2026-06,-1977.82
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2026-07,-1748.66
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2026-08,-1735.43
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-150,Sales & marketing,OPX,,,2026-09,-1843.07
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-10,-6732.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-11,-6772.51
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-12,-6773.99
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-01,-6985.58
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-02,-6931.52
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-03,-7007.98
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-04,-6925.07
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-05,-6960.33
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-06,-6940.45
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-07,-6960.9
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-08,-7005.74
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-09,-6991.96
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2025-10,-1861.93
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2025-11,-1842.23
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2025-12,-1782.17
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2026-01,-1928.18
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2026-02,-1790.25
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2026-03,-1860.48
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2026-04,-1911.39
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2026-05,-2016.91
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2026-06,-1969.87
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2026-07,-1913.47
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2026-08,-1755.54
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,OPX-185,General & administrative,OPX,,,2026-09,-1801.73
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2025-10,158340.81
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2025-11,159794.98
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2025-12,159556.73
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2026-01,164777.52
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2026-02,163468.5
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2026-03,165563.53
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2026-04,163359.67
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2026-05,163852.81
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2026-06,163587.94
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2026-07,163918.8
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2026-08,165410.42
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-100,Core revenue,REV,,,2026-09,165195.74
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2025-10,9959.29
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2025-11,9517.72
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2025-12,9793.09
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2026-01,9862.04
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2026-02,9819.46
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2026-03,9635.86
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2026-04,9766.98
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2026-05,10155.32
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2026-06,9923.37
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2026-07,10103.66
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2026-08,9733.0
+CRF_1002,Maple Court Apartments,Asset,CRF,Multifamily,1.0,REV-300,Other revenue,REV,,,2026-09,9603.33
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2025-10,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2025-11,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2025-12,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2026-01,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2026-02,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2026-03,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2026-04,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2026-05,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2026-06,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2026-07,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2026-08,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,DBT-100,Interest expense,BNOI,,,2026-09,-18000.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2025-10,-9708.26
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2025-11,-9550.35
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2025-12,-9767.89
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2026-01,-9783.89
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2026-02,-9902.52
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2026-03,-9890.61
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2026-04,-9718.69
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2026-05,-9631.75
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2026-06,-9554.35
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2026-07,-9821.75
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2026-08,-9564.9
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-100,Payroll & related,OPX,,,2026-09,-9692.28
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-10,-1249.23
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-11,-1270.17
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-12,-1266.7
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-01,-1289.56
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-02,-1293.35
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-03,-1274.33
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-04,-1282.12
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-05,-1241.34
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-06,-1161.49
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-07,-1249.64
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-08,-1250.49
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-09,-1339.7
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-10,-2958.31
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-11,-2785.18
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-12,-2971.65
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-01,-2632.19
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-02,-2975.35
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-03,-2786.17
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-04,-2594.59
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-05,-2637.87
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-06,-2802.49
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-07,-2853.59
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-08,-2972.44
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-09,-2692.38
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2025-10,-2863.68
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2025-11,-2863.66
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2025-12,-2938.04
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2026-01,-2909.88
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2026-02,-2966.6
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2026-03,-2929.04
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2026-04,-3016.94
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2026-05,-2901.51
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2026-06,-3038.09
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2026-07,-2974.44
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2026-08,-2859.02
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-120,Utilities,OPX,,,2026-09,-2901.77
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2025-10,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2025-11,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2025-12,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2026-01,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2026-02,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2026-03,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2026-04,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2026-05,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2026-06,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2026-07,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2026-08,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-130,Property taxes,OPX,,,2026-09,-8100.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-140,Insurance,OPX,,,2026-03,-31200.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2025-10,-2617.5
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2025-11,-2474.02
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2025-12,-2594.44
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2026-01,-2524.73
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2026-02,-2677.31
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2026-03,-2501.15
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2026-04,-2505.91
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2026-05,-2490.78
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2026-06,-2479.67
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2026-07,-2609.7
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2026-08,-2607.89
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-150,Sales & marketing,OPX,,,2026-09,-2475.47
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-10,-3561.24
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-11,-3560.07
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-12,-3517.87
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-01,-3546.62
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-02,-3519.9
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-03,-3542.43
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-04,-3516.18
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-05,-3522.39
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-06,-3557.55
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-07,-3574.41
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-08,-3551.13
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-09,-3583.63
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2025-10,-2204.26
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2025-11,-2216.56
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2025-12,-2169.71
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2026-01,-2147.65
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2026-02,-2136.51
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2026-03,-2158.07
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2026-04,-2167.38
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2026-05,-2159.62
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2026-06,-2144.91
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2026-07,-2216.92
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2026-08,-2177.17
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,OPX-185,General & administrative,OPX,,,2026-09,-2184.87
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2025-10,84548.08
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2025-11,84408.28
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2025-12,83442.69
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2026-01,84495.73
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2026-02,83764.71
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2026-03,84346.32
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2026-04,83606.98
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2026-05,83912.47
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2026-06,84838.57
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2026-07,84873.71
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2026-08,84700.67
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-100,Core revenue,REV,,,2026-09,85002.83
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2025-10,2498.47
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2025-11,2540.33
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2025-12,2533.4
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2026-01,2579.11
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2026-02,2586.71
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2026-03,2548.66
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2026-04,2564.25
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2026-05,2482.67
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2026-06,2322.97
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2026-07,2499.28
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2026-08,2500.97
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-200,Ancillary revenue,REV,,,2026-09,2679.4
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2025-10,1984.47
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2025-11,2053.23
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2025-12,1970.69
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2026-01,1590.57
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2026-02,1646.0
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2026-03,1665.69
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2026-04,1733.28
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2026-05,1664.49
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2026-06,1777.11
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2026-07,1987.16
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2026-08,1576.51
+CRF_1003,Stor-Easy Storage,Asset,CRF,Self Storage,1.0,REV-300,Other revenue,REV,,,2026-09,1908.5
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2025-10,1442.66
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2025-11,1528.91
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2025-12,1408.78
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-01,1469.7
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-02,1499.64
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-03,1634.24
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-04,1350.15
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-05,1628.79
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-06,1367.13
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-07,1461.61
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-08,1513.49
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-09,1485.06
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2025-10,-125000.0
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2026-01,-125000.0
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2026-04,-125000.0
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2026-07,-125000.0
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2025-10,-7918.02
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2025-11,-7967.7
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2025-12,-8307.54
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-01,-8144.39
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-02,-8367.85
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-03,-7667.67
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-04,-7949.04
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-05,-7986.42
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-06,-7985.91
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-07,-7904.62
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-08,-7762.58
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-09,-7960.28
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2025-10,195000.0
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2026-01,195000.0
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2026-04,195000.0
+CRF_FUND,Core Income Fund,Fund,CRF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2026-07,195000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2025-10,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2025-11,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2025-12,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2026-01,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2026-02,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2026-03,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2026-04,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2026-05,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2026-06,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2026-07,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2026-08,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,DBT-100,Interest expense,BNOI,,,2026-09,-61000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-10,-4830.15
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-11,-4843.29
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-12,-4748.19
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-01,-4802.82
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-02,-4854.14
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-03,-4795.09
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-04,4400.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-05,-11028.02
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-06,-4758.03
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-07,-4838.74
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-08,-4798.53
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-09,-4836.03
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2025-10,-4623.5
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2025-11,-4585.63
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2025-12,-4591.43
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2026-01,-4487.41
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2026-02,-4474.14
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2026-03,-4392.83
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2026-04,-4462.86
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2026-05,-4511.66
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2026-06,-4407.99
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2026-07,-4648.41
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2026-08,-4622.33
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-120,Utilities,OPX,,,2026-09,-4419.02
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2025-10,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2025-11,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2025-12,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2026-01,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2026-02,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2026-03,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2026-04,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2026-05,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2026-06,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2026-07,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2026-08,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-130,Property taxes,OPX,,,2026-09,-24000.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2025-10,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2025-11,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2025-12,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2026-01,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2026-02,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2026-03,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2026-04,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2026-05,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2026-06,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2026-07,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2026-08,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-140,Insurance,OPX,,,2026-09,-6500.0
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-10,-7232.16
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-11,-7209.67
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-12,-7246.06
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-01,-7228.34
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-02,-7241.44
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-03,-7251.49
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-04,-7242.06
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-05,-7218.12
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-06,-7192.05
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-07,-7261.07
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-08,-7242.78
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-09,-7195.31
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2025-10,-1048.68
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2025-11,-974.49
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2025-12,-1081.92
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2026-01,-1526.38
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2026-02,-1234.98
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2026-03,-1182.78
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2026-04,-1137.79
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2026-05,-930.81
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2026-06,-988.42
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2026-07,-988.85
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2026-08,-694.13
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,OPX-185,General & administrative,OPX,,,2026-09,-1224.28
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2025-10,209525.06
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2025-11,209199.5
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2025-12,210227.04
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2026-01,209789.51
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2026-02,210343.46
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2026-03,210447.22
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2026-04,209953.79
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2026-05,209361.29
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2026-06,209422.84
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2026-07,172200.57
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2026-08,209712.94
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-100,Core revenue,REV,,,2026-09,209428.5
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2025-10,31547.03
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2025-11,31122.71
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2025-12,31308.18
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2026-01,31155.31
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2026-02,31037.87
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2026-03,31269.23
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2026-04,31448.08
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2026-05,31242.64
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2026-06,30312.02
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2026-07,31834.96
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2026-08,31713.14
+GDF_1001,Riverside Business Park,Asset,GDF,Industrial,1.0,REV-300,Other revenue,REV,,,2026-09,30415.03
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2025-10,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2025-11,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2025-12,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2026-01,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2026-02,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2026-03,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2026-04,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2026-05,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2026-06,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2026-07,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,DBT-100,Interest expense,BNOI,,,2026-08,-33000.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2025-10,-15330.09
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2025-11,-15014.65
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2025-12,-15196.63
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2026-01,-14875.02
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2026-02,-15131.77
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2026-03,-15299.86
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2026-04,-14965.6
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2026-05,-15229.54
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2026-06,-15164.47
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2026-07,-14835.2
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-100,Payroll & related,OPX,,,2026-08,-15392.55
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2025-10,-4937.64
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2025-11,-4947.57
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2025-12,-4927.33
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2026-01,-5252.06
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2026-02,-5268.09
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2026-03,-5083.75
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2026-04,-5055.28
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2026-05,-5146.13
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2026-06,-5113.41
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2026-07,-4976.53
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-110,Repairs & maintenance,OPX,,,2026-08,-5239.39
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2025-10,-7451.92
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2025-11,-7558.3
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2025-12,-7522.67
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2026-01,-7540.5
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2026-02,-7602.48
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2026-03,-7808.42
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2026-04,-7830.7
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2026-05,-7502.25
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2026-06,-7636.6
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2026-07,-7647.59
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-120,Utilities,OPX,,,2026-08,-7619.87
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2025-10,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2025-11,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2025-12,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2026-01,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2026-02,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2026-03,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2026-04,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2026-05,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2026-06,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2026-07,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-130,Property taxes,OPX,,,2026-08,-9800.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2025-10,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2025-11,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2025-12,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2026-01,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2026-02,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2026-03,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2026-04,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2026-05,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2026-06,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2026-07,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-140,Insurance,OPX,,,2026-08,-4900.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2025-10,-2450.51
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2025-11,-2434.27
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2025-12,-2469.31
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2026-01,-2601.8
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2026-02,-2605.37
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2026-03,-2366.84
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2026-04,-2517.89
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2026-05,-2397.3
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2026-06,-2610.82
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2026-07,-2504.8
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-150,Sales & marketing,OPX,,,2026-08,-2442.71
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2025-10,-2924.45
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2025-11,-2987.23
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2025-12,-3060.62
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2026-01,-3125.38
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2026-02,-3205.18
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2026-03,-3269.37
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2026-04,-3335.22
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2026-05,-3413.14
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2026-06,-3477.86
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2026-07,-3553.93
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-175,Property management fees,OPX,IC-02,Payor,2026-08,-3627.21
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2025-10,-449.56
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2025-11,-471.3
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2025-12,-462.76
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2026-01,-447.4
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2026-02,-432.58
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2026-03,-469.21
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2026-04,-470.46
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2026-05,-442.93
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2026-06,-434.39
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2026-07,-428.94
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2026-08,-436.39
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,OPX-185,General & administrative,OPX,,,2026-09,-450.0
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2025-10,69186.66
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2025-11,70997.4
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2025-12,72697.97
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2026-01,74436.31
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2026-02,76180.43
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2026-03,77972.14
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2026-04,79728.63
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2026-05,81498.8
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2026-06,83259.43
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2026-07,85029.49
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-100,Core revenue,REV,,,2026-08,86750.58
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2025-10,3924.57
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2025-11,3683.44
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2025-12,3817.63
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2026-01,3698.17
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2026-02,3949.08
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2026-03,3762.2
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2026-04,3651.91
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2026-05,3829.73
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2026-06,3687.17
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2026-07,3818.66
+GDF_1002,Elm Street Lofts,Asset,GDF,Multifamily,0.6,REV-300,Other revenue,REV,,,2026-08,3929.59
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2025-10,1401.1
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2025-11,1572.78
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2025-12,1379.98
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-01,1390.66
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-02,1401.76
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-03,1588.73
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-04,1407.93
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-05,1470.03
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-06,1454.32
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-07,1544.66
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-08,1569.04
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-09,1565.13
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2025-10,-80000.0
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2026-01,-80000.0
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2026-04,-80000.0
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2026-07,-80000.0
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2025-10,-7089.17
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2025-11,-7180.07
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2025-12,-7023.18
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-01,-6633.27
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-02,-7012.64
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-03,-7169.15
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-04,-6861.73
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-05,-7124.3
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-06,-7182.4
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-07,-6746.67
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-08,-6877.98
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-09,-7163.82
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2025-10,120000.0
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2026-01,120000.0
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2026-04,120000.0
+GDF_FUND,Growth & Development Fund,Fund,GDF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2026-07,120000.0
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2025-10,742.29
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2025-11,732.42
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2025-12,761.93
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2026-01,832.41
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2026-02,749.16
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2026-03,766.02
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2026-04,763.04
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2026-05,747.74
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2026-06,829.84
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2026-07,828.46
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2026-08,812.86
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,NOP-100,Other non-operating,BNOI,,,2026-09,872.43
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2025-10,-98211.67
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2025-11,-98191.22
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2025-12,-98365.0
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2026-01,-99819.63
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2026-02,-98158.21
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2026-03,-98850.16
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2026-04,-99571.82
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2026-05,-99430.79
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2026-06,-99109.38
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2026-07,-98725.84
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2026-08,-98230.45
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-100,Payroll & related,OPX,,,2026-09,-99745.68
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2025-10,-3775.05
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2025-11,-3786.07
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2025-12,-4009.48
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2026-01,-4142.73
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2026-02,-4308.57
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2026-03,-4025.91
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2026-04,-4152.83
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2026-05,-4236.43
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2026-06,-4392.43
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2026-07,-4288.65
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2026-08,-4127.4
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-150,Sales & marketing,OPX,,,2026-09,-3709.61
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2025-10,-24772.09
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2025-11,-25314.58
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2025-12,-24591.65
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2026-01,-24831.89
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2026-02,-24887.79
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2026-03,-25026.01
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2026-04,-25312.78
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2026-05,-24999.63
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2026-06,-24367.42
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2026-07,-24423.08
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2026-08,-24686.34
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,OPX-185,General & administrative,OPX,,,2026-09,-24839.13
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-01,Payee,2025-10,300000.0
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-01,Payee,2026-01,300000.0
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-01,Payee,2026-04,205000.0
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-01,Payee,2026-07,395000.0
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2025-10,32099.71
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2025-11,26568.32
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2025-12,25399.57
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2026-01,25392.37
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2026-02,25670.44
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2026-03,27548.12
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2026-04,32564.6
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2026-05,39504.59
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2026-06,44744.29
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2026-07,48045.66
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2026-08,47192.47
+JRP_PAR,Juniper Ridge Partners,ManagementCo,,ManagementCo,1.0,REV-300,Other revenue,REV,IC-02,Payee,2026-09,37554.18
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2025-10,-24000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2025-11,-23970.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2025-12,-23940.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-01,-23910.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-02,-23880.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-03,-23850.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-04,-23820.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-05,-23790.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-06,-23760.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-07,-23730.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-08,-23700.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-09,-23670.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2025-10,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2025-11,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2025-12,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-01,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-02,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-03,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-04,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-05,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-06,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-07,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-08,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-09,-28000.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2025-10,-47229.38
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2025-11,-39855.84
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2025-12,-37178.22
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-01,-37957.39
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-02,-37771.22
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-03,-41026.88
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-04,-48926.16
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-05,-53060.24
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-06,-62091.78
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-07,-65621.98
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-08,-64007.28
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-09,-57241.99
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-10,-3151.81
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-11,-1417.87
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-12,-867.49
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-01,-695.38
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-02,-878.31
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-03,-1753.16
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-04,-3231.14
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-05,-4896.4
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-06,-6790.83
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-07,-7905.3
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-08,-7805.38
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-09,-5703.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-10,-5434.57
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-11,-4949.33
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-12,-4572.22
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-01,-4418.08
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-02,-4668.34
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-03,-4882.04
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-04,-5297.49
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-05,-5965.36
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-06,-6421.25
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-07,-7194.49
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-08,-6863.5
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-09,-6302.3
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2025-10,-9832.08
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2025-11,-6795.53
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2025-12,-5893.34
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-01,-5441.69
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-02,-5810.08
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-03,-7336.75
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-04,-10130.37
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-05,-13239.35
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-06,-16403.79
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-07,-18064.64
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-08,-17995.59
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-09,-14267.72
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2025-10,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2025-11,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2025-12,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-01,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-02,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-03,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-04,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-05,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-06,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-07,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-08,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-09,-5400.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2025-10,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2025-11,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2025-12,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-01,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-02,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-03,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-04,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-05,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-06,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-07,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-08,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-09,-4600.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2025-10,-3291.28
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2025-11,-3014.96
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2025-12,-2599.85
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-01,-2644.04
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-02,-2851.73
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-03,-3075.87
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-04,-3256.22
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-05,-3687.07
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-06,-4287.69
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-07,-4541.32
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-08,-4343.02
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-09,-3900.54
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-10,-5576.16
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-11,-2170.38
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-12,-1621.76
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-01,-1430.35
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-02,-1599.36
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-03,-2473.73
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-04,-5688.68
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-05,-7366.59
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-06,-9235.31
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-07,-10293.88
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-08,-9993.38
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-09,-8046.52
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2025-10,-5560.22
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2025-11,-3358.23
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2025-12,-3117.32
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-01,-2773.61
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-02,-2915.6
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-03,-3568.37
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-04,-5674.15
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-05,-6688.46
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-06,-8162.08
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-07,-8747.0
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-08,-8397.51
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-09,-7174.9
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2025-10,125913.9
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2025-11,48097.67
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2025-12,36816.98
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-01,32773.51
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-02,36248.92
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-03,54402.27
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-04,128358.01
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-05,163305.03
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-06,201685.45
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-07,223576.42
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-08,217127.9
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-09,177188.22
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2025-10,13490.14
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2025-11,6161.74
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2025-12,3727.07
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-01,2985.22
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-02,3735.14
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-03,7441.02
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-04,13858.91
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-05,20859.84
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-06,29197.34
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-07,33770.52
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-08,32706.68
+OPF_1001,Pinecrest RV Park,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-09,23974.79
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-05,-18000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-06,-18000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-07,-18000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-08,-18000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-09,-18000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-05,-15000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-06,-15000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-07,-15000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-08,-15000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-09,-15000.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-05,-22732.36
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-06,-32222.46
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-07,-37960.85
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-08,-36222.63
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-09,-25032.75
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-05,-2539.14
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-06,-3654.79
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-07,-4277.37
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-08,-4132.52
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-09,-2778.52
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-05,-2694.28
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-06,-2642.78
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-07,-2861.44
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-08,-2728.85
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-09,-2688.19
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-05,-4105.03
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-06,-5899.26
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-07,-7062.06
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-08,-6588.58
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-09,-4594.17
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-05,-3900.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-06,-3900.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-07,-3900.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-08,-3900.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-09,-3900.0
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-05,-1522.25
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-06,-1445.9
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-07,-1551.25
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-08,-1438.06
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-09,-1435.57
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-05,-2945.66
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-06,-4084.15
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-07,-4752.86
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-08,-4570.28
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-09,-3276.02
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-05,-1514.18
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-06,-1519.23
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-07,-8973.89
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-08,-1536.02
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-09,-1502.27
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-05,67293.69
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-06,92966.69
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-07,108128.14
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-08,103925.59
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-09,74954.32
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-05,6347.85
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-06,9136.96
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-07,10693.41
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-08,10331.3
+OPF_1002,Bluewater Marina & RV,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-09,6946.29
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2025-10,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2025-11,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2025-12,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-01,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-02,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-03,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-04,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-05,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-06,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-07,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-08,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,DBT-100,Interest expense,BNOI,,,2026-09,-15000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2025-10,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2025-11,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2025-12,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-01,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-02,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-03,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-04,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-05,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-06,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-07,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-08,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,NC-900,Non-cash (memo),MEMO,,,2026-09,-12000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2025-10,-25578.62
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2025-11,-14251.09
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2025-12,-6360.73
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-01,-6566.96
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-02,-6516.82
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-03,-12802.4
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-04,-22855.63
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-05,-33460.02
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-06,-44959.12
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-07,-52237.35
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-08,-47720.26
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-100,Payroll & related,OPX,,,2026-09,-35307.58
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-10,-1697.78
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2025-11,-757.97
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-03,-6500.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-04,-1522.8
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-05,-2491.76
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-06,-3486.47
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-07,-4182.02
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-08,-3851.64
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-105,Ancillary cost of sales,OPX,,,2026-09,-2644.4
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-10,-1926.77
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-11,-1160.42
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2025-12,-518.78
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-01,-506.35
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-02,-494.07
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-03,-1024.13
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-04,-1674.94
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-05,-2517.53
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-06,-3579.43
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-07,-3830.69
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-08,-3706.9
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-110,Repairs & maintenance,OPX,,,2026-09,-2754.77
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2025-10,-7320.99
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2025-11,-4121.44
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2025-12,-1914.37
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-01,-1927.1
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-02,-1977.68
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-03,-3741.06
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-04,-6377.52
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-05,-9334.82
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-06,-12432.45
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-07,-14454.55
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-08,-13534.13
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-120,Utilities,OPX,,,2026-09,-9790.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2025-10,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2025-11,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2025-12,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-01,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-02,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-03,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-04,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-05,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-06,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-07,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-08,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-130,Property taxes,OPX,,,2026-09,-2800.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2025-10,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2025-11,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2025-12,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-01,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-02,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-03,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-04,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-05,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-06,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-07,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-08,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-140,Insurance,OPX,,,2026-09,-3200.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2025-10,-2195.76
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2025-11,-1232.06
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2025-12,-583.17
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-01,-583.25
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-02,-627.22
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-03,-1064.36
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-04,-1854.11
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-05,-2737.96
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-06,-3635.4
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-07,-3997.31
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-08,-3810.54
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-150,Sales & marketing,OPX,,,2026-09,-2976.26
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-10,-2187.04
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-11,-1271.13
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2025-12,-1000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-01,-1000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-02,-1000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-03,-1151.74
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-04,-1932.72
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-05,-2842.83
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-06,-3632.93
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-07,-4157.47
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-08,-3894.49
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-175,Property management fees,OPX,IC-02,Payor,2026-09,-2890.29
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2025-10,-1821.57
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2025-11,-1226.23
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2025-12,-445.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-01,-445.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-02,-445.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-03,-1148.63
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-04,-1656.27
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-05,-2247.84
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-06,-2761.4
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-07,-3102.35
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-08,-2931.42
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,OPX-185,General & administrative,OPX,,,2026-09,-2278.69
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2025-10,49751.17
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2025-11,29619.63
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-02,48000.0
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-03,27102.17
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-04,43958.78
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-05,63883.42
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-06,80840.11
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-07,92000.61
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-08,86350.11
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-100,Core revenue,REV,,,2026-09,64692.66
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2025-10,4924.75
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2025-11,2158.6
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-03,1190.35
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-04,4359.2
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-05,7187.28
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-06,9983.09
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-07,11936.01
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-08,11012.15
+OPF_1003,Cedar Bluff Campground,Asset,OPF,RV Park,1.0,REV-200,Ancillary revenue,REV,,,2026-09,7564.66
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2025-10,1628.27
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2025-11,1351.79
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2025-12,1589.5
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-01,1478.02
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-02,1532.98
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-03,1621.24
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-04,1627.48
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-05,1539.69
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-06,1484.74
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-07,1579.46
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-08,1350.78
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,NOP-100,Other non-operating,BNOI,,,2026-09,1449.23
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2025-10,-95000.0
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2026-01,-95000.0
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2026-04,-95000.0
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-170,Management fees - affiliate (IC),OPX,IC-01,Payor,2026-07,-95000.0
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2025-10,-6674.47
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2025-11,-6760.54
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2025-12,-6609.5
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-01,-6890.72
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-02,-7032.12
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-03,-6952.88
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-04,-7191.95
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-05,-6968.13
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-06,-7128.78
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-07,-7311.01
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-08,-6844.67
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,OPX-185,General & administrative,OPX,,,2026-09,-6829.27
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2025-10,80000.0
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2026-01,80000.0
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2026-04,80000.0
+OPF_FUND,Opportunity Fund,Fund,OPF,Fund,1.0,REV-300,Other revenue,REV,IC-03,Payee,2026-07,80000.0

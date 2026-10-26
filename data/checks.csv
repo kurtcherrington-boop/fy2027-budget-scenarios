@@ -1,0 +1,15 @@
+CheckID,Check,Difference,Status,Detail
+C-01,"P&L source totals rebuilt from detail (subtotals, NET INCOME, row totals)",4.0,4 open,2916 source totals checked
+C-02,Every loaded entity ties to its own NET INCOME line,310.8,310.800,13 entities with a NET INCOME line
+C-03,Every Actual row has an entity in the master and a Line ID,0.0,OK,Unknown entities load but stay out of fund roll-ups
+C-04,Pair eliminations net to zero (incl. ICD-999),0.0,OK,
+C-05,Unreconciled intercompany (ICD-999) = 0,0.0,OK,Non-zero means a pair did not tie - see IC_Recon
+C-06,Unmapped dollars = 0,0.0,OK,
+C-07,Timing and reclass adjustments net to zero per finding,0.0,OK,"Over all months, including those past the window"
+C-08,"No open High-severity exceptions (excluding missing uploads, counted in C-10 / C-11)",1.0,1 open,"Unreadable amounts, unknown entities, unmapped accounts, duplicate loads"
+C-09,Excluded entities kept out of consolidated measures,0.0,OK,"1 excluded entity(ies) loaded, 84 rows held out"
+C-10,Every in-scope entity uploaded a P&L for every period in scope (Oct-25 to Sep-26),0.0,OK,All received - see Upload_Status
+C-11,Every in-scope entity uploaded a balance sheet for every period in scope (Oct-25 to Sep-26),13.0,13 open,"Missing entity-months: OPF_1003, GDF_1002"
+C-12,Balance sheets balance and tie to their own totals (assets = liabilities + equity),1.0,1 open,372 balance sheet checks
+C-13,"Current-year earnings on each balance sheet = the same ledger's P&L (YTD for balances, the month for activity)",2.0,2 open,121 entity-months compared; 3 not comparable (see BS_Checks)
+C-14,P&L and balance sheet come from each entity's book of record (Entities.Book),0.0,OK,Every received statement is from the book of record - see Upload_Status
